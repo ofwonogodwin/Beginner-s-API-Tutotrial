@@ -5,9 +5,10 @@ url = "https://jsonplaceholder.typicode.com/posts/1"
 
 #The Data we want to Update
 data = {
-    "title": "Updated Title: Learning PUT with Buddy ",
-    "body": "I just updated a post using Python!",
-    "userId": 1
+    "name": "Rwoth Ofwono",
+    "Title": "Learnt APIs with Chat GPT",
+    "body":"Updated the name",
+    "user Id":1
 }
 
 #Send a put request
